@@ -1,7 +1,1 @@
-libllvm-18-ocaml-dev
-libllvm18
-llvm-18
-llvm-18-dev
-llvm-18-doc
-llvm-18-examples
-llvm-18-runtime
+llvm
